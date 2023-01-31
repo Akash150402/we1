@@ -1,0 +1,55 @@
+.upper{
+    display: flex;
+    background-color: orangered;
+    height: 155px;
+}
+
+#image1{
+    width: 650px;
+    padding-left: 25%;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.about{
+    padding-left: 35%;
+    margin-top: 8%;
+    font-size: 28px;
+}
+.contact{
+    padding-left: 3%;
+    margin-top: 8%;
+    font-size: 28px;
+}
+.profile{
+    padding-left: 3%;
+    margin-top: 8%;
+    font-size: 28px;
+}
+.register{
+    padding-left: 3%;
+    margin-top: 8%;
+    font-size: 28px;
+}
+.login{
+    padding-left: 3%;
+    margin-top: 8%;
+    font-size: 28px;
+}
+.form{
+       background-color: bisque;
+      margin: 8%;
+}
+.log{
+    padding: 10%;
+    margin-left: 20%;
+}
+.succ{
+    padding: 6%;
+    font-size: 200%;
+}
+.b1{
+    display: flex;
+     background-color: darkcyan;
+}
